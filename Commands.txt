@@ -1,0 +1,5 @@
+! git add README.md
+! git commit -m 'my first upload'
+! git branch -M main
+! git remote add origin https://github.com/asjadnaqvi/github-tutorial.git
+! git push -u origin main
